@@ -1,0 +1,10 @@
+{
+  "logGroupName": "/aws/lambda/snap-ci-bot-development",
+  "logStreamName": "...",
+  "functionName": "snap-ci-bot-development",
+  "memoryLimitInMB": "128",
+  "functionVersion": "1.0.0",
+  "invokeid": "1234",
+  "awsRequestId": "5678",
+  "invokedFunctionArn": "arn:aws:lambda:ap-northeast-1:12345678:function:snap-ci-bot-development"
+}
