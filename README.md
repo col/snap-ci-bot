@@ -12,7 +12,7 @@ Package
 
 Deploy
 
-    node-lambda deploy -f deploy.env
+    node-lambda deploy -f deploy.env -o <Role ARN>
 
 Configuration
 
